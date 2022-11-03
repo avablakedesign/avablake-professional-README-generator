@@ -21,10 +21,10 @@
  ## Usage
  ![screenshot](assets/images/screenshot-README.png)
  <video width="960" height="720" controls>
-    <source src = "assets/images/avablake-readme-generator-video-pt1-2.mp4" type="video/mp4"> 
+    <source src = "assets/images/avablake-readme-generator-pt1-2.mp4" type="video/mp4"> 
  </video>
  <video width="960" height= "720" controls>
-    <source src = "assets/images/avablake-readme-generator-video-pt2-2.mp4" type ="video/mp4">
+    <source src = "assets/images/avablake-readme-generator-pt2-2.mp4" type ="video/mp4">
  </video>  
  <video width="960" height="720" controls>
     <source src = "assets\images\avablake-readme-generator-video-2-2.mp4" type="video/mp4">
