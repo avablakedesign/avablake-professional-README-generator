@@ -10,6 +10,7 @@
  What problem does it solve?: As mentioned before it is a time saver and it makes my README more readable and my work more professional.
 
  What did you learn?: I learned how to build command line programs using Node.js, npm, FS and Inquirer.
+ ## Installation
  First install Node.js through the LTS on their website. Then install npm through their website or by command line. Then install Inquirer through command line by typing install i inquirer@8.2.4 using Git Bash.
  ## Table of Contents
 - [Usage](#usage)
