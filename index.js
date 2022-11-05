@@ -11,6 +11,7 @@ return contributing.split(", ").map((name) => {
     return `[${name}](https://github.com/${name})`
 }).join("\n- ")    
 }
+//This changes the markdown README file and updates it's information through template literals from inquirer.
 return (
 `# ${title}
 ${licenseData.license}
@@ -183,7 +184,7 @@ ${licenseData.links}
  My Email: ${questions_email} 
  If you have any questions you can reach me by email here.
 `)}
-// This is an array of questions that allow user input.
+// This is an array of questions that allow user input from inquirer.
 const GenerateQuestions = async () => {
     const questions = [];
 const answers = await inquirer.prompt ([

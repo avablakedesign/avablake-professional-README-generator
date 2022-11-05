@@ -1,4 +1,4 @@
-//This returns a license section of the readme , the license link and the license badge.
+//This returns a license section of the readme as well as the license link and the license badge.
 function renderLicenseSection(license) {
   switch(license){
     case "mit":{
